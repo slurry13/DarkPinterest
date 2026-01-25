@@ -9,13 +9,14 @@
     },
     "content_scripts": [
         {
-            "js":[
-
-            ],
+            "css":["css/style.css"],
             "matches":[
                 "https://ru.pinterest.com/",
                 "https://pinterest.com/"
             ]
         }
+    ],
+    "permissions":[
+        "activeTab"
     ]
 }
