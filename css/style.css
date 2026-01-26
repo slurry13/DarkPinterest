@@ -1,27 +1,56 @@
-body{
-    background: rgb(31, 31, 31) !important;
+:root{
+    --bg-main: #222222 ;
+    --extra-lines:  #1a1a1a;
+    --ligth-elements:  ;
+    --text-primary: #ffffff ;
+    --button-onclick-red: ;
+    --button-stil-red: #e60023;
+    --button-onclick-grey: rgb();
+    --no-color:#ffffff00fff;
+    
 }
 
-._ByyDT, .WuRgKB{
-    color: rgb(255, 255, 255) !important;
+body,
+.aa5Agr,
+.XjRT60.bCyBlM,
+.cUw_ba.bCyBlM,
+.ADXRXN.gcIrSY:hover,
+.ADXRXN.Lo7aEl.zEVE_X,
+.j0pMjI:hover,
+.qzrGlv:hover,
+.fAZwDI:hover,
+.ADXRXN.BVzdUh._xSIdT.g8WGSl.kF2VEF.sSBu24.zEVE_X:hover{
+    background: var(--bg-main) !important;
 }
 
-.ecEhnF, .Tu2pQF, .cUw_ba, .cUw_ba.Ivj8Ch{
-    background-color: rgb(17, 17, 17) !important;
+.ecEhnF,
+.cUw_ba,
+.XjRT60,
+.ADXRXN.gcIrSY,
+.Tu2pQF,
+.j0pMjI,
+.fAZwDI{
+    background-color: var(--extra-lines) !important;
 }
 
-.aa5Agr{
-    background: rgb(31, 31, 31) !important;
+._ByyDT,
+.WuRgKB{
+    color: var(--text-primary) !important;
+
 }
 
-.cUw_ba.bCyBlM,.XjRT60.bCyBlM,.ADXRXN.Lo7aEl.zEVE_X{
-    background-color: rgb(66, 66, 66) !important;
+.aeO02S{
+    color: var(--button-stil-red) !important;
 }
 
-.Tu2pQF{
-    box-shadow: rgb(15, 15, 15) !important;
+.r97eaX{
+    background-color: var(--no-color) !important;
+} 
+
+.ADXRXN.gEQpi5.nnftW_{
+    background: var(--bg-main) !important;
 }
 
-.ADXRXN Lo7aEl zEVE_X{
-    background-color: rgb(66, 66, 66) !important;
+.ADXRXN.TfR6nu{
+    background: var(--no-color) !important;
 }
