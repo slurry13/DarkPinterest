@@ -1,1 +1,33 @@
 # DarkPinterest
+To them who will make their own mode for theme on pinterest.
+
+._ByyDT - icons
+
+.WuRgKB - text
+
+.ecEhnF - left and top lines
+.XjRT60 - left button still
+.XjRT60.bCyBlM - left button on mouse
+
+.cUw_ba - image button still
+.cUw_ba.bCyBlM - image button on mouse
+
+.ADXRXN.gcIrSY - main menu avatar border
+
+.Tu2pQF - account list
+.qzrGlv - account list button on click
+
+.ADXRXN.Lo7aEl.zEVE_X - search line
+
+.aeO02S - commentators names
+
+.r97eaX - text selection 
+
+.ADXRXN.gEQpi5.nnftW_ - more
+.ADXRXN.TfR6nu - more gradient
+
+.j0pMjI - open in browser
+
+.fAZwDI - team button
+
+.ADXRXN.BVzdUh._xSIdT.g8WGSl.kF2VEF.sSBu24.zEVE_X - miniprofile in profile
