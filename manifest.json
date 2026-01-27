@@ -9,14 +9,21 @@
     },
     "content_scripts": [
         {
-            "css":["css/style.css"],
+            "css":["css/default.css"],
             "matches":[
-                "https://ru.pinterest.com/",
-                "https://pinterest.com/"
+                "*://*.pinterest.com/*"
             ]
         }
     ],
     "permissions":[
-        "activeTab"
-    ]
+        "activeTab", 
+        "scripting", 
+        "storage"
+    ],
+    "icons": {
+        "16":"icons/icon16.png",
+        "32":"icons/icon32.png",
+        "64":"icons/icon64.png",
+        "128": "icons/icon128.png"
+    }
 }
