@@ -4,12 +4,10 @@
     "desription": "Making pinterest theme dark in your browser.",
     "version": "0.0.1",
     "author": "slurry",
-    "action":{
-        "default_popup": "html/popup.html"    
-    },
+    
     "content_scripts": [
         {
-            "css":["css/default.css"],
+            "css":["css/style.css"],
             "matches":[
                 "*://*.pinterest.com/*"
             ]
